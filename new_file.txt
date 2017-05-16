@@ -1,2 +1,3 @@
-new file
+New file
 new file2
+Make some changes
